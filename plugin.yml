@@ -1,0 +1,84 @@
+name: PokeCore
+main: core.Core
+version: 1.0
+description: PokeCore
+commands: 
+     shop:
+           usage: /<command>
+           description: Enable Staff Chat!
+     zombie:
+           usage: /<command>
+           description: Enable Staff Chat!
+     snowcloud:
+           usage: /<command>
+           description: Enable Staff Chat!    
+     footstep:
+           usage: /<command>
+           description: Enable Staff Chat!   
+     flame:
+           usage: /<command>
+           description: Enable Staff Chat! 
+     frost:
+           usage: /<command>
+           description: Enable Staff Chat!
+     cloud:
+           usage: /<command>
+           description: Test!
+     givecoin:
+           usage: /<command>
+           description: Enable Staff Chat!
+     takecoin:
+           usage: /<command>
+           description: Enable Staff Chat!
+     balance:
+           usage: /<command>
+           description: Enable Staff Chat!
+     staffchat:
+           usage: /<command>
+           description: Enable Staff Chat!
+     adminchat:
+           usage: /<command>
+           description: Enable Admin Chat!
+     givestaffperm:
+           usage: /<command>
+           description: Spawn A Zombie!
+     giveadminperm:
+           usage: /<command>
+           description: Spawn A Zombie!
+     removestaffperm:
+           usage: /<command>
+           description: Spawn A Zombie!
+     removeadminperm:
+           usage: /<command>
+           description: Spawn A Zombie!
+     addnpc:
+           usage: /<command>
+           description: Spawn A Zombie!
+     removenpc:
+           usage: /<command>
+           description: Spawn A Zombie!
+     npcedit:
+           usage: /<command>
+           description: Spawn A Zombie!
+     faction:
+           usage: /<command>
+           description: Spawn A Zombie!
+     addnpc:
+           usage: /<command>
+           description: Spawn A Zombie!
+     npcedit:
+           usage: /<command>
+           description: Spawn A Zombie!
+     npcslow:
+           usage: /<command>
+           description: Spawn A Zombie!
+           
+permissions:
+     chat.staff:
+           description: Perm
+           default: false
+     chat.admin:
+           description: Perm
+           default: false
+     
+
